@@ -1,0 +1,6 @@
+This project, by undergraduate student Daniel Hancock, is based on work by Maria Babiuc and Dillon Buskirk:
+Buskirk and Babiuc arxiv.org/pdf/1810.06160
+github.com/mbabiuc/MathScripts
+
+We supply Python code to implement the analytical gravitational waveform for a binary with m1 + m2 = 40, as in Babiuc and Buskirk's code. 
+For future work, it is suggested that one implement m1 + m2 =  65, to facilitate matching with observed events. 
